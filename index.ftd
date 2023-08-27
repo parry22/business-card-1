@@ -1,5 +1,5 @@
--- import: <user_name>.github.io/<repo_name>/lib/front
--- import: <user_name>.github.io/<repo_name>/lib/back
+-- import: parry22.github.io/business-card-1/lib/front
+-- import: parry22.github.io/business-card-1/lib/back
 
 -- ds.page: Business Card
 
